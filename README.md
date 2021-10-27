@@ -1,2 +1,2 @@
 # ReLink
-Saves any kind of links for future reference in our browser's Local Storage.
+Note taking app using Javascript using OOP architecture. Used Browser Local Storage for persistent data storage and Materialize CSS for styling.
